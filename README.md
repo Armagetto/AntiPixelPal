@@ -1,0 +1,2 @@
+# AntiPixelPal
+Detects pixalaated numbers
